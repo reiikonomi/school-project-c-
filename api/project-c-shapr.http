@@ -1,0 +1,6 @@
+@project_c_shapr_HostAddress = http://localhost:5031
+
+GET {{project_c_shapr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
